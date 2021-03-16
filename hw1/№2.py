@@ -1,0 +1,5 @@
+a = float(input())
+b = float(input())
+c = float(input())
+average = (a + b + c) - max(a, b, c) - min(a, b, c)
+print((a + b + c) - average - min(a, b, c))
