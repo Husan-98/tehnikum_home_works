@@ -1,4 +1,4 @@
-a = 'asdsgdfg qwrrterwq'
+a = 'привет как дела'
 a = a.split(' ')
 
 b = []
