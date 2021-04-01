@@ -38,7 +38,7 @@ def deluser_function(update, context):
 
 
 
-API_TOKEN = '1735593186:AAG2lb1qONdNmmnTLrjVgVPDbL5MnPRSGhs'
+API_TOKEN = 'тут должен быть актуальный токен'
 
 updater = Updater(token=API_TOKEN)
 
